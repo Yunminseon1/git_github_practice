@@ -4,6 +4,7 @@ git check out 커밋 ID
 # 특정 브랜치로의 전환
 git check out 브랜치명 
 
+<<<<<<< HEAD
 # pull은 원격사항을 local로 내려받은것
 git pull origin main
 
@@ -21,3 +22,6 @@ git reset head^
 # 이미 푸쉬된 커밋 사항을 되돌리는 새로운 커밋생성 
 git revert 커밋ID 
 
+=======
+hello world
+>>>>>>> e906851db5d971ee4acb189c4d6cc5b0edf69b85
