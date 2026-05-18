@@ -1,5 +1,5 @@
 # .은 모든 변경사항을 의미. 특정파일만 add하는 것도 가능
-#add는 staging area로 변경사항을 이동
+# add는 staging area로 변경사항을 이동
 git add .
 
 #commit은 변경이력(commitId) 발생.
